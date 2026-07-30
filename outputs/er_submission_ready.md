@@ -188,6 +188,6 @@ This study demonstrates that an interpretable radiomics framework—deployed exc
 
 **Guarantor:** The scientific guarantor of this publication is Kuan Liu (刘宽).
 
-**Data and code availability:** All data are publicly available from Zenodo (DOI: 10.5281/zenodo.12741586). The complete analysis code is available at [repository URL].
+**Data and code availability:** All data are publicly available from Zenodo (DOI: 10.5281/zenodo.12741586). The complete analysis code is available at https://github.com/Liukuan19920919/hcc-tace-radiomics.
 
 **Author contributions:** Kuan Liu contributed to study conception, data analysis, and manuscript writing.

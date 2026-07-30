@@ -39,7 +39,7 @@ All analyses use the publicly available **WAW-TACE dataset**:
 ## Installation
 
 ```bash
-git clone https://github.com/KuanLiu-hbu/hcc-tace-radiomics.git
+git clone https://github.com/Liukuan19920919/hcc-tace-radiomics.git
 cd hcc-tace-radiomics
 python3 -m venv venv
 source venv/bin/activate
