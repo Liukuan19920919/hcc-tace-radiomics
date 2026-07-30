@@ -1,0 +1,18 @@
+Characteristic,All (n=210),Poor Response (n=134),Good Response (n=76),P value
+Age (years),66.0 ± 9.9,65.5 ± 9.4,66.9 ± 10.8,0.266
+Female sex,41 (16%),22 (16.4%),19 (25.0%),0.185
+Number of lesions,1.6 ± 0.9,1.7 ± 1.0,1.3 ± 0.7,0.003
+Largest lesion diameter (mm),49.9 ± 27.4,54.9 ± 29.0,41.1 ± 21.8,0.000
+Serum albumin (g/dL),4.0 ± 0.5,3.9 ± 0.5,4.1 ± 0.5,0.004
+Serum bilirubin (mg/dL),1.1 ± 1.0,1.2 ± 1.1,0.9 ± 0.6,0.016
+Serum AFP (ng/mL),4640.1 ± 23350.5,5875.9 ± 27807.3,2461.3 ± 11859.5,0.100
+Serum ALT (U/L),64.5 ± 74.8,65.7 ± 59.1,62.3 ± 96.9,0.122
+INR,1.2 ± 0.2,1.2 ± 0.2,1.2 ± 0.2,0.360
+Serum creatinine (mg/dL),0.9 ± 0.3,0.9 ± 0.3,0.9 ± 0.3,0.495
+Etiology: HCV,82 (38%),51 (38.1%),31 (40.8%),0.808
+Etiology: HBV,26 (16%),21 (15.7%),5 (6.6%),0.088
+Etiology: Alcoholic,79 (43%),57 (42.5%),22 (28.9%),0.071
+Death,151 (72%),113 (84%),38 (50%),0.000
+Progression,55 (26%),15 (11%),40 (53%),0.000
+Overall survival (months) [median],29,18,46,0.000
+PFS (months) [median],20,22,16,0.086

@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# Data (large files)
+data/
+*.nii.gz
+*.nrrd
+*.dcm
+*.zip
+!scripts/download_*.sh
+
+# Output figures (large TIFF)
+outputs/figures_tiff/
+outputs/waw_tace_run/
+outputs/test_run/
+outputs/*.tiff
+outputs/*.png
+outputs/*.html
+*.aux
+*.log
+*.out
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temp
+/tmp/
+*.tmp
